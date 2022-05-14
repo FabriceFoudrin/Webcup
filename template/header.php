@@ -1,4 +1,4 @@
-<section class="page-title">
+<section id="header" class="page-title">
 <div class="swiper-container slider-main swiper-initialized swiper-horizontal swiper-pointer-events">
     <div class="swiper-wrapper" id="swiper-wrapper-2810d946ddede8d39" aria-live="polite" style="transform: translate3d(0px, 0px, 0px);">
         <div class="swiper-slide swiper-slide-active" role="group" aria-label="1 / 3" style="width: 749px;">
@@ -9,9 +9,8 @@
                         <div class="col-md-12">
                             <div class="box-slider">
                                 <div class="content-box">
-                                    <h1 class="title">CYbox nft collectionS for everyone</h1>
-                                    <p class="sub-title">Nulla ornare sagittis placerat nunc sit tempus enim. 
-                                        Accumsan pellentesque ipsum felis tristique at proin vel turpis.</p>
+                                    <h1 class="title">CAPSULE CORPORATION™</h1>
+                                    <p class="sub-title"> Une expérience unique et évolutive qui s’inscrit à travers les âges</p>
                                     <div class="wrap-btn">
                                         <a href="#" class="tf-button-st2 btn-effect" data-toggle="modal" data-target="#popup_bid"><span class="effect">connect wallet</span></a>
                                         <a href="https://www.youtube.com/watch?v=i7EMACWuErA" class="tf-button btn-effect popup-youtube">

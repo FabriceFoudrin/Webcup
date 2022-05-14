@@ -115,7 +115,7 @@
     themesflatTheme.init();
 
     var ajaxContactForm = function () {
-        $('#contactform,#commentform').each(function () {
+        $('#contactform').each(function () {
             $(this).validate({
                 submitHandler: function (form) {
                     var $form = $(form),

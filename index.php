@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
     <!-- Bootstrap CSS -->
     
     <link href="./inc/css/bootstrap/bootstrap.min.css" rel="stylesheet">
@@ -26,14 +26,16 @@
     <div id="wrapper">
     <!-- Header -->
         <?php 
-            include_once("./template/navbar.php");
-            include_once("./template/header.php");
-            include_once("./template/about.php");
-            include_once("./template/roadmap.php");
-            include_once("./template/product.php");
-            include_once("./template/team.php");
-            include_once("./template/faq.php");
-            include_once("./template/footer.php"); 
+          include_once('function.php');
+        getNav(); 
+        getHeader();  
+        getAbout(); 
+        getCapsule();
+        getTeam();
+        getFaq(); 
+        getContact();  
+        getFooter();  
+         
         ?>
     <!-- end Header -->
 
@@ -99,7 +101,7 @@
     </div>
     <a id="scroll-top"></a>
     <script src="inc/js/jquery.min.js"></script>
-    <script src="inc/js/bootstrap.min.js"></script>
+    <script src="inc/js/bootstrap/bootstrap.bundle.min.js"></script>
     <script src="inc/js/swiper-bundle.min.js"></script>
     <script src="inc/js/swiper.js"></script>
     <script src="inc/js/app.js"></script>

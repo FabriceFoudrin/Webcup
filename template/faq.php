@@ -1,4 +1,4 @@
-<section class="tf-section faq">
+<section id="faq" class="tf-section faq">
 <div class="container">
     <div class="row">
         <div class="col-md-12">
