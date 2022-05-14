@@ -10,7 +10,7 @@
                             <a href="#header">Accueil</a>
                         </li>
                         <li class="menu-item">
-                            <a href="#about">Nos services</a>
+                            <a href="#about">Présentation</a>
                         </li>
                         <li class="menu-item">
                             <a href="#capsule">Nos capsules</a>
@@ -28,7 +28,7 @@
                 </nav><!-- /#main-nav -->
                 <a class="tf-button btn-effect" href="./contact.php">   
                     <span class="boder-fade"></span>                                     
-                    <span class="effect">join discord</span>
+                    <span class="effect">Commander</span>
                 </a>
                 <div class="mobile-button"><span></span></div><!-- /.mobile-button -->
             </div>
