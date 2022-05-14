@@ -14,7 +14,11 @@
     <link href="./assets/font/font-awesome.css" rel="stylesheet">
     <link href="./inc/css/styles.css" rel="stylesheet">
 
+<<<<<<< Updated upstream
     <title>Hello, world!</title>
+=======
+    <title>Capsule corporation</title>
+>>>>>>> Stashed changes
   </head>
   <body class="header-fixed main" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
         <!-- preloade -->
@@ -25,6 +29,7 @@
         <!-- /preload -->
     <div id="wrapper">
     <!-- Header -->
+<<<<<<< Updated upstream
         <?php include_once("./inc/navbar.php"); ?>
     <!-- end Header -->
 
@@ -1190,6 +1195,39 @@
             
         </div>
     </footer>
+=======
+        <?php 
+          
+          include_once("./template/navbar.php"); 
+          include_once("./template/header.php"); 
+          include_once("./template/about.php"); 
+          include_once("./template/homeslider.php"); 
+          include_once("./template/homeroadmap.php"); 
+          include_once("./template/product.php");
+          include_once("./template/team.php");  
+          include_once("./template/faq.php"); 
+          include_once("./template/footer.php"); 
+        
+        ?>
+    <!-- end Header -->
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+>>>>>>> Stashed changes
 
     <div class="modal fade popup" id="popup_bid" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
