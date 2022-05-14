@@ -2,7 +2,7 @@
         <div class="container">
             <div id="site-header-inner">
                 <div class="header__logo">
-                    <a href="#header"><img src="assets/images/logo/logo.png" alt="logo capsule corporation" style="width:12%;"></a>
+                    <a href="#header"><img src="assets/images/logo/logo.png" alt="logo capsule corporation" style="width:105px;"></a>
                 </div>
                 <nav id="main-nav" class="main-nav">
                     <ul id="menu-primary-menu" class="menu">
@@ -26,7 +26,7 @@
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->
-                <a class="tf-button btn-effect" href="./contact.php">   
+                <a class="tf-button btn-effect" href="#">   
                     <span class="boder-fade"></span>                                     
                     <span class="effect">Commander</span>
                 </a>
