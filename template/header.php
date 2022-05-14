@@ -20,7 +20,7 @@
                                     </div>
                                 </div>
                                 <div class="image">
-                                    <img src="assets/images/logo/logo.png" alt="">
+                                    <img src="assets/images/common/itemslider.png" alt="">
                                 </div>
                             </div>
                         </div>
