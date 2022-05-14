@@ -4,8 +4,8 @@
         <div class="col-md-5">
             <div class="content-about mobie-40 aos-init aos-animate" data-aos="fade-up" data-aos-duration="800">
                 <div class="tf-title st2">
-                    <p class="h8 sub-title">About us</p>
-                    <h4 class="title">What is cybox?</h4>
+                    <p class="h8 sub-title">Présentation</p>
+                    <h4 class="title">Qu'est ce que CAPSULE CORPORATION™?</h4>
                 </div>
                 <p>CAPSULE CORPORATION™ est une entreprise française qui conçoit et commercialise des capsules temporelles personnalisables partout dans le monde. Elle a pour vocation de permettre aux individus qui le souhaitent d’accomplir leur volonté de transmission aux générations futures.
 Que cela soit dans 20 ans ou 5000 ans, notre devoir est de délivrer la capsule temporelle au bon moment, au bon endroit et à la bonne personne. Pas d’inquiétude : même dans 5000 ans, votre capsule arrivera à bon port car nous voyagerons, avec elle, à travers les âges.
@@ -13,7 +13,7 @@ Que cela soit dans 20 ans ou 5000 ans, notre devoir est de délivrer la capsule 
                 </p>
                     <a class="tf-button st2 btn-effect" href="item.html">   
                         <span class="boder-fade"></span>                                     
-                        <span class="effect">get Nfts</span>
+                        <span class="effect">Commander sa capsule</span>
                     </a>
             </div>
         </div>
