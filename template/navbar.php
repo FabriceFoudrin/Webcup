@@ -2,25 +2,27 @@
         <div class="container">
             <div id="site-header-inner">
                 <div class="header__logo">
-                    <a href="index-2.html"><img src="assets/images/logo/logo.png" alt=""></a>
+                    <a href="#header"><img src="assets/images/logo/logo.png" alt="logo capsule corporation" style="width:12%;"></a>
                 </div>
                 <nav id="main-nav" class="main-nav">
                     <ul id="menu-primary-menu" class="menu">
                         <li class="menu-item">
-                            <a href="./index.php">Home</a>
+                            <a href="#header">Accueil</a>
                         </li>
                         <li class="menu-item">
-                            <a href="./about.php">About</a>
+                            <a href="#about">Nos services</a>
                         </li>
                         <li class="menu-item">
-                            <a href="./roadmap.php">Road Map </a>
-                           
+                            <a href="#capsule">Nos capsules</a>
                         </li>
                         <li class="menu-item">
-                            <a href="./item.php">Item</a>
+                            <a href="#team">Notre équipe</a>
                         </li>
                         <li class="menu-item">
-                            <a href="./contact.php">Contact</a>
+                            <a href="#faq">FAQ</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="#contact">Contact</a>
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->
