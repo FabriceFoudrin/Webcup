@@ -1,4 +1,4 @@
-<section id="about" class="tf-section tf-about pb-mobie" style="background: #102621">
+<section id="about" class="tf-section tf-about pb-mobie">
 <div class="container">
     <div class="row">
         <div class="col-md-5">
@@ -8,7 +8,7 @@
                     <h4 class="title">Qu'est ce que CAPSULE CORPORATION™?</h4>
                 </div>
                 <p>CAPSULE CORPORATION™ est une entreprise française qui conçoit et commercialise des capsules temporelles personnalisables partout dans le monde. Elle a pour vocation de permettre aux individus qui le souhaitent d’accomplir leur volonté de transmission aux générations futures.
-Que cela soit dans 20 ans ou 5000 ans, notre devoir est de délivrer la capsule temporelle au bon moment, au bon endroit et à la bonne personne. Pas d’inquiétude : même dans 5000 ans, votre capsule arrivera à bon port car nous voyagerons, avec elle, à travers les âges.
+                    Que cela soit dans 20 ans ou 5000 ans, notre devoir est de délivrer la capsule temporelle au bon moment, au bon endroit et à la bonne personne. Pas d’inquiétude : même dans 5000 ans, votre capsule arrivera à bon port car nous voyagerons, avec elle, à travers les âges.
 
                 </p>
                     <a class="tf-button st2 btn-effect" href="#">   

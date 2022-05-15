@@ -20,7 +20,7 @@
                                     </div>
                                 </div>
                                 <div class="image">
-                                    <img src="assets/images/common/itemslider.png" alt="">
+                                    <img src="assets/images/common/itemslider.png" alt="capsule flotant" style="width: 80%;">
                                 </div>
                             </div>
                         </div>
