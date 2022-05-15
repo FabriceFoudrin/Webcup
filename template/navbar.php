@@ -26,7 +26,7 @@
                         </li>
                     </ul>
                 </nav><!-- /#main-nav -->
-                <a class="tf-button btn-effect" href="#">   
+                <a class="tf-button btn-effect" href="#capsule">   
                     <span class="boder-fade"></span>                                     
                     <span class="effect">Commander</span>
                 </a>

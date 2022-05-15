@@ -11,7 +11,7 @@
                     Que cela soit dans 20 ans ou 5000 ans, notre devoir est de délivrer la capsule temporelle au bon moment, au bon endroit et à la bonne personne. Pas d’inquiétude : même dans 5000 ans, votre capsule arrivera à bon port car nous voyagerons, avec elle, à travers les âges.
 
                 </p>
-                    <a class="tf-button st2 btn-effect" href="#">   
+                    <a class="tf-button st2 btn-effect" href="#capsule">   
                         <span class="boder-fade"></span>                                     
                         <span class="effect">Commander sa capsule</span>
                     </a>
